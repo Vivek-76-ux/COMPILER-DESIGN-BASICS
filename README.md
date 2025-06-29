@@ -3,7 +3,7 @@ NAME: VIVEK KUMAR
 INTERN ID: CT04DF2521
 DOMAIN: C LANGUAGE 
 DURATION: 4 WEEKS
-MENTOR: NEELA SANTOSH
+MENTOR: NEELA SANTHOSH
 
 This C program is a simple lexical analyzer designed as part of the Compiler Design basics. It takes an input source code (from a file), scans it line by line, and classifies each token into one of the following categories:
 
